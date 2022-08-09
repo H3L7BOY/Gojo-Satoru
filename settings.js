@@ -28,11 +28,11 @@ global.footer = '©LEXHA'
 global.ig = 'https://github.com/H3L7BOY'
 global.region = 'India, kerala, KL05'
 global.sc = 'https://github.com/H3L7BOY/Gojo-Satoru'
-global.myweb = ''
+global.myweb = 'https://instagram.com/__h3llboy___?igshid=YmMyMTA2M2Y='
 global.packname = 'H3L7BOY'
 global.author = 'H3L7BOY'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','🤍','👽','✨']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
