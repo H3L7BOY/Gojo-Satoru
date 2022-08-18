@@ -15,13 +15,13 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'ff255d4b-c614-43ef-8b9f-06fa13f249d7', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
+	'https://zenzapis.xyz': '3ad082ee-9ff7-45aa-a764-f9250b1b6619', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 
 //customize settings\\
-global.owner = ['687811818']
-global.premium = ['687811818']
-global.ownernomer = '687811818'
+global.owner = ['972526878118']
+global.premium = ['972526878118']
+global.ownernomer = '972526878118'
 global.ownername = 'H3L7BOY'
 global.botname = 'Lexha Bot v1'
 global.footer = '©LEXHA'
